@@ -46,7 +46,7 @@ def curate_data():
     def curated_tags():
       result_tags = query.query_raw_data(query_Tags) 
       return result_tags
-    return curate_top20(), curate_domestic_box_office(), curate_marvel_domestic(), Curate_World_top_1000(), curated_movies_id(), curated_tags()
+    return (curate_top20(), curate_domestic_box_office(), curate_marvel_domestic(), Curate_World_top_1000(), curated_movies_id(), curated_tags())
 
 
 query_top20_cleaned = '''SELECT franchise, Worldwide_Box_office FROM Domestic_Box_Office_Franchises Order by 2 DESC LIMIT 20'''
@@ -94,25 +94,24 @@ query_season_releases_cleaned = '''SELECT
         Released_season'''
 
 
-def tranformed_data():
+def transformed_data():
    # Ranking The Top 20 franchise based on Gross Revenue
-   def rank_top20_based_on_gross_revenue():
-      result_gross_top20 = query.query_on_cleaned(query_top20_cleaned)
-      return result_gross_top20
-   # Ranking Franchise based on the number of Movies Released
-   def rank_franchise_based_on_no_of_movies():
-      result_no_of_movies = query.query_on_cleaned(query_no_of_movies_cleaned)
-      return result_no_of_movies
-   # Franchise average revenue per movie
-   def franchise_avg_revenue_per_movie():
-      result_avg_revenue = query.query_on_cleaned(query_avg_revenue_cleaned)
-      return result_avg_revenue
-   # Weather season releases with top performing movies
-   def season_releases():
-        result_season_releases = query.query_on_cleaned(query_season_releases_cleaned)
-        return result_season_releases
-   return rank_top20_based_on_gross_revenue(), rank_franchise_based_on_no_of_movies(), franchise_avg_revenue_per_movie(), season_releases() 
+    def rank_top20_based_on_gross_revenue():
+        result_gross_top20 = query.perform_sql_query_on_cleaned(query_top20_cleaned)
+        return result_gross_top20
+    # Ranking Franchise based on the number of Movies Released
+    def rank_franchise_based_on_no_of_movies():
+        result_no_of_movies = query.perform_sql_query_on_cleaned(query_no_of_movies_cleaned)
+        return result_no_of_movies
+    # Franchise average revenue per movie
+    def franchise_avg_revenue_per_movie():
+        result_avg_revenue = query.perform_sql_query_on_cleaned(query_avg_revenue_cleaned)
+        return result_avg_revenue
+    # Weather season releases with top performing movies
+    def season_releases():
+            result_season_releases = query.perform_sql_query_on_cleaned(query_season_releases_cleaned)
+            return result_season_releases
+    return( rank_top20_based_on_gross_revenue(), rank_franchise_based_on_no_of_movies(), franchise_avg_revenue_per_movie(), season_releases() )
 
-if __name__ == "__main__":
-    # curate_data()
-    tranformed_data()
+
+    #rank_top20_based_on_gross_revenue()

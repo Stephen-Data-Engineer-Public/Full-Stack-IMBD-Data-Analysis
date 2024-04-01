@@ -1,4 +1,4 @@
-from tables import tables, file_names, table_names
+from tables import tables, file_names, table_names, csv_table_pairs
 import extracting
 import sqlite3
 import os
@@ -6,7 +6,7 @@ import pandas as pd
 import transformation
 import csv
 
-def save_data_as_csv(output_folder):
+def save_raw_data_as_csv(output_folder):
     conn = sqlite3.connect('movie_data.db')
     for url, table_name in tables.items():
         extracting.read_data_to_sql(url, table_name)
@@ -16,48 +16,32 @@ def save_data_as_csv(output_folder):
     conn.close()
 
 def save_curate_data_as_csv(folder_path):
-    data = transformation.curate_data() # this is from the transformation script
+    data = transformation.curate_data()
     for i, dataset in enumerate(data):
         with open(os.path.join(folder_path, f'{file_names[i]}.csv'), 'w', newline='') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerows(dataset)
+            writer.writerow(dataset.columns)  # Write column names
+            writer.writerows(dataset.values.tolist()) 
 
-def save_folder_to_sqlite(folder_path, db_path):
-    # Connect to SQLite database
-    conn = sqlite3.connect(db_path)
+def save_curated_tags_as_csv(folder_path): 
+    # Call the curated_tags function to get the data
+    result_tags = transformation.curate_data()
+    # Check if result_tags is not None and not empty
+    if result_tags is not None and not result_tags.empty:
+        # Define the file path for saving the CSV file
+        file_path = os.path.join(folder_path, 'tags.csv')
+        result_tags.to_csv(file_path, index=False)
 
-    # Iterate over each file in the folder
-    for file_name in os.listdir(folder_path):
-        if file_name.endswith('.csv'):
-            table_name = os.path.splitext(file_name)[0]  # Extract table name from file name
-            csv_file_path = os.path.join(folder_path, file_name)
 
-            # Read CSV file into DataFrame
-            df = pd.read_csv(csv_file_path)
+database_name = "movie_cleaned_data.db"
 
-            # Save DataFrame to SQLite database, replacing any existing table
-            df.to_sql(table_name, conn, if_exists='replace', index=False)
+def store_csv_data_in_database(csv_table_pairs, database_name):
+    conn = sqlite3.connect(database_name)
+    cursor = conn.cursor()
+    for csv_file, table_name in csv_table_pairs:
+        df = pd.read_csv(csv_file)
+        df.to_sql(table_name, conn, if_exists='replace', index=False)
 
-    # Commit changes and close connection
     conn.commit()
     conn.close()
 
-def save_transformed_data_as_csv(folder_path):
-    data = transformation.tranformed_data() # this is from the transformation script
-    for i, dataset in enumerate(data):
-        with open(os.path.join(folder_path, f'{file_names[i]}.csv'), 'w', newline='') as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerows(dataset)
-
-
-
-if __name__ == "__main__":
-   # raw_data_folder = "data\\raw_data"
-    # save_data_as_csv(raw_data_folder)
-    #cleaned_data_folder = "data\processed_data.csv\cleaned data"
-    #save_curate_data_as_csv(cleaned_data_folder)
-    #transformed_data_folder = "data\processed_data.csv\transformed data"
-    #save_transformed_data_as_csv(transformed_data_folder)
-    cleaned_data_folder = "data\processed_data.csv\cleaned data"
-    db_path = "movie_data.db"
-    save_folder_to_sqlite(cleaned_data_folder, db_path)
