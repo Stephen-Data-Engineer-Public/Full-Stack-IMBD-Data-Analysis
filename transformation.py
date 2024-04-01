@@ -111,7 +111,7 @@ def transformed_data():
     def season_releases():
             result_season_releases = query.perform_sql_query_on_cleaned(query_season_releases_cleaned)
             return result_season_releases
-    return( rank_top20_based_on_gross_revenue(), rank_franchise_based_on_no_of_movies(), franchise_avg_revenue_per_movie(), season_releases() )
+    return(rank_top20_based_on_gross_revenue(), rank_franchise_based_on_no_of_movies(), franchise_avg_revenue_per_movie(), season_releases() )
 
 
     #rank_top20_based_on_gross_revenue()
