@@ -20,5 +20,3 @@ def load_cleaned_data():
         file_path = os.path.join(Cleaned_data_folder, f"{table_name}.csv")
         df.to_csv(file_path, index=False)
 
-if __name__ == "__main__":
-    load_cleaned_data()
