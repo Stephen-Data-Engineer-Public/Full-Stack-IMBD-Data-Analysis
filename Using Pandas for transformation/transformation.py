@@ -20,5 +20,3 @@ def apply_cleaning():
                 Movies_dataframes[table_name][column] = Movies_dataframes[table_name][column].str.replace('$', '').str.replace(',', '')
     return Movies_dataframes
 
-if __name__ == "__main__":
-    apply_cleaning()
