@@ -7,14 +7,14 @@ def apply_cleaning(data, COLUMNS_TO_TRANSFORM):
         for column in columns:
             print(column)
             if data[table_name][column].dtype == 'object':
-                data[table_name][column] = data[table_name][column].str.replace('$', '').str.replace(',', '')
+                data[table_name][column] = data[table_name][column].str.replace('$', '', regex=False).str.replace(',', '', regex=False)
                 data[table_name][column] = pd.to_numeric(data[table_name][column], errors='coerce')
     return data
 
 
 def top_20_franchises_ranked_based_on_gross_revenue(data):
     selected_columns = data['Domestic_Box_Office_Franchises'][['Franchise', 'Worldwide_Box_Office']]
-    sorted_data = selected_columns.sort_values(by='Worldwide_Box_office', ascending=False)
+    sorted_data = selected_columns.sort_values(by='Worldwide_Box_Office', ascending=False)
     top_20_franchises_ranked_based_on_gross_revenue = sorted_data.head(20)
     top_20_franchises_ranked_based_on_gross_revenue.columns = ['Franchise', 'Gross Revenue']
     return top_20_franchises_ranked_based_on_gross_revenue
@@ -52,12 +52,12 @@ def transform_data(data):
     top_20_gross_revenue = top_20_franchises_ranked_based_on_gross_revenue(data)
     top_20_movie_count = ranking_franchise_based_on_the_number_of_movies_released(data)
     top_20_average_revenue_per_movie = average_revenue_per_movie_for_the_top_20_franchise(data)
-    number_of_release_per_season = number_of_release_per_season(data)
+    number_of_release_per_season_result = number_of_release_per_season(data)
     
     return {
         'top_20_gross_revenue': top_20_gross_revenue,
         'top_20_movie_count': top_20_movie_count,
         'top_20_average_revenue_per_movie': top_20_average_revenue_per_movie,
-        'number_of_release_per_season': number_of_release_per_season
+        'number_of_release_per_season': number_of_release_per_season_result
     }
 
