@@ -1,0 +1,282 @@
+Franchise,Rank,Release,Lifetime_Gross,Max_Theaters,Opening_Gross,Open_Theaters,Release_Date,Distributor
+Marvel Cinematic Universe,1,Avengers: Endgame,858373000.0,4662.0,357115007.0,"4,662","Apr 26, 2019",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,2,Black Panther,700059566.0,4084.0,202003951.0,"4,020","Feb 16, 2018",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,3,Avengers: Infinity War,678815482.0,4474.0,257698183.0,"4,474","Apr 27, 2018",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,4,The Avengers,623357910.0,4349.0,207438708.0,"4,349","May 4, 2012",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,5,Avengers: Age of Ultron,459005868.0,4276.0,191271109.0,"4,276","May 1, 2015",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,6,Captain Marvel,426829839.0,4310.0,153433423.0,"4,310","Mar 8, 2019",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,7,Iron Man 3,409013994.0,4253.0,174144585.0,"4,253","May 3, 2013",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,8,Captain America: Civil War,408084349.0,4226.0,179139142.0,"4,226","May 6, 2016",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,9,Spider-Man: Far from Home,390532085.0,4634.0,92579212.0,"4,634","Jul 2, 2019",Sony Pictures Releasing
+Marvel Cinematic Universe,10,Guardians of the Galaxy Vol. 2,389813101.0,4347.0,146510104.0,"4,347","May 5, 2017",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,11,Spider-Man: Homecoming,334201140.0,4348.0,117027503.0,"4,348","Jul 7, 2017",Sony Pictures Releasing
+Marvel Cinematic Universe,12,Guardians of the Galaxy,333176600.0,4088.0,94320883.0,"4,080","Aug 1, 2014",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,13,Iron Man,318604126.0,4154.0,98618668.0,"4,105","May 2, 2008",Paramount Pictures
+Marvel Cinematic Universe,14,Thor: Ragnarok,315058289.0,4080.0,122744989.0,"4,080","Nov 3, 2017",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,15,Iron Man 2,312433331.0,4390.0,128122480.0,"4,380","May 7, 2010",Paramount Pictures
+Marvel Cinematic Universe,16,Captain America: The Winter Soldier,259766572.0,3938.0,95023721.0,"3,938","Apr 4, 2014",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,17,Doctor Strange,232641920.0,3882.0,85058311.0,"3,882","Nov 4, 2016",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,18,Ant-Man and the Wasp,216648740.0,4206.0,75812205.0,"4,206","Jul 6, 2018",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,19,Thor: The Dark World,206362140.0,3841.0,85737841.0,"3,841","Nov 8, 2013",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,20,Thor,181030624.0,3963.0,65723338.0,"3,955","May 6, 2011",Paramount Pictures
+Marvel Cinematic Universe,21,Ant-Man,180202163.0,3868.0,57225526.0,"3,856","Jul 17, 2015",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,22,Captain America: The First Avenger,176654505.0,3715.0,65058524.0,"3,715","Jul 22, 2011",Paramount Pictures
+Marvel Cinematic Universe,23,The Incredible Hulk,134806913.0,3508.0,55414050.0,"3,505","Jun 13, 2008",Universal Pictures
+Marvel Cinematic Universe,-,Untitled Marvel (Feb 2023),,,,-,"Feb 17, 2023",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Untitled Marvel (May 2023),,,,-,"May 5, 2023",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Untitled Marvel (July 2023),,,,-,"Jul 28, 2023",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Untitled Marvel (Nov 2023),,,,-,"Nov 3, 2023",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Black Widow,,,,-,"Nov 6, 2020",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Eternals,,,,-,"Feb 12, 2021",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Doctor Strange in the Multiverse of Madness,,,,-,"Nov 5, 2021",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Shang-Chi and the Legend of the Ten Rings,,,,-,"May 7, 2021",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Thor: Love and Thunder,,,,-,"Feb 18, 2022",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Black Panther II,,,,-,"May 6, 2022",Walt Disney Studios Motion Pictures
+Marvel Cinematic Universe,-,Untitled Spider-Man Sequel,,,,-,"Jul 16, 2021",Sony Pictures Releasing
+Marvel Cinematic Universe,-,Untitled Marvel (Oct 2022),,,,-,"Oct 7, 2022",Walt Disney Studios Motion Pictures
+Star Wars,1,Star Wars: Episode VII - The Force Awakens,936662225.0,4134.0,247966675.0,"4,134","Dec 18, 2015",Walt Disney Studios Motion Pictures
+Star Wars,2,Star Wars: Episode VIII - The Last Jedi,620181382.0,4232.0,220009584.0,"4,232","Dec 15, 2017",Walt Disney Studios Motion Pictures
+Star Wars,3,Rogue One: A Star Wars Story,532177324.0,4157.0,155081681.0,"4,157","Dec 16, 2016",Walt Disney Studios Motion Pictures
+Star Wars,4,Star Wars: Episode IX - The Rise of Skywalker,515202542.0,4406.0,177383864.0,"4,406","Dec 20, 2019",Walt Disney Studios Motion Pictures
+Star Wars,5,Star Wars: Episode I - The Phantom Menace,431088295.0,3126.0,64820970.0,"2,970","May 19, 1999",Twentieth Century Fox
+Star Wars,6,Star Wars: Episode III - Revenge of the Sith,380270577.0,3663.0,108435841.0,"3,661","May 19, 2005",Twentieth Century Fox
+Star Wars,7,Star Wars: Episode IV - A New Hope,307263857.0,1750.0,1554475.0,43,"May 25, 1977",Twentieth Century Fox
+Star Wars,8,Star Wars: Episode II - Attack of the Clones,302191252.0,3161.0,80027814.0,"3,161","May 16, 2002",Twentieth Century Fox
+Star Wars,9,Star Wars: Episode VI - Return of the Jedi,252583617.0,1764.0,23019618.0,"1,002","May 25, 1983",Twentieth Century Fox
+Star Wars,10,Solo: A Star Wars Story,213767512.0,4381.0,84420489.0,"4,381","May 25, 2018",Walt Disney Studios Motion Pictures
+Star Wars,11,Star Wars: Episode V - The Empire Strikes Back,209398025.0,1278.0,4910483.0,126,"May 21, 1980",Twentieth Century Fox
+Star Wars,12,Star Wars: Episode IV - A New Hope1997 Special Edition,138257865.0,2375.0,35906661.0,"2,104","Jan 31, 1997",Twentieth Century Fox
+Star Wars,13,Star Wars: Episode V - The Empire Strikes Back1997 Special Edition,67597694.0,2322.0,21975993.0,"2,111","Feb 21, 1997",Twentieth Century Fox
+Star Wars,14,Star Wars: Episode VI - Return of the Jedi1997 Special Edition,45470437.0,2111.0,16293531.0,"2,111","Mar 14, 1997",Twentieth Century Fox
+Star Wars,15,Star Wars: Episode I - The Phantom Menace2012 3D Release,43456382.0,2655.0,22469932.0,"2,655","Feb 10, 2012",Twentieth Century Fox
+Star Wars,16,Star Wars: The Clone Wars,35161554.0,3452.0,14611273.0,"3,452","Aug 15, 2008",Warner Bros.
+Star Wars,17,Star Wars: Episode IV - A New Hope1982 Re-release,15476785.0,1070.0,3766803.0,"1,070","Aug 13, 1982",Twentieth Century Fox
+Star Wars,18,Star Wars: Episode V - The Empire Strikes Back1982 Re-release,13276241.0,1006.0,3949478.0,992,"Nov 19, 1982",Twentieth Century Fox
+Star Wars,19,Star Wars: Episode VI - Return of the Jedi1985 Re-release,11252123.0,894.0,3209056.0,849,"Mar 29, 1985",Twentieth Century Fox
+Star Wars,20,Star Wars: Episode II - Attack of the Clones2002 IMAX Release,8485488.0,58.0,1435259.0,58,"Nov 1, 2002",Twentieth Century Fox
+Star Wars,-,Untitled Star Wars Film,,,,-,"Dec 20, 2024",Walt Disney Studios Motion Pictures
+Star Wars,-,Untitled Star Wars Film,,,,-,"Dec 18, 2026",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,1,The Lion King,543638043.0,4802.0,191770759.0,"4,725","Jul 19, 2019",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,2,Beauty and the Beast,504014165.0,4210.0,174750616.0,"4,210","Mar 17, 2017",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,3,The Jungle Book,364001123.0,4144.0,103261464.0,"4,028","Apr 15, 2016",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,4,Aladdin,355559216.0,4476.0,91500929.0,"4,476","May 24, 2019",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,5,Alice in Wonderland,334191110.0,3739.0,116101023.0,"3,728","Mar 5, 2010",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,6,Maleficent,241410378.0,3948.0,69431298.0,"3,948","May 30, 2014",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,7,Oz the Great and Powerful,234911825.0,3912.0,79110453.0,"3,912","Mar 8, 2013",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,8,Cinderella,201151353.0,3848.0,67877361.0,"3,845","Mar 13, 2015",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,9,101 Dalmatians,136189294.0,2901.0,33504025.0,"2,794","Nov 27, 1996",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,10,Dumbo,114766307.0,4259.0,45990748.0,"4,259","Mar 29, 2019",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,11,Maleficent: Mistress of Evil,113929605.0,3820.0,36948713.0,"3,790","Oct 18, 2019",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,12,Alice Through the Looking Glass,77041381.0,3763.0,26858726.0,"3,763","May 27, 2016",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,13,Pete's Dragon,76233151.0,3702.0,21514095.0,"3,702","Aug 12, 2016",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,14,102 Dalmatians,66957026.0,2704.0,19883351.0,"2,704","Nov 22, 2000",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,15,The Jungle Book,43229904.0,2012.0,5129959.0,"1,880","Dec 25, 1994",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,-,Cruella,,,,-,"May 28, 2021",Walt Disney Studios Motion Pictures
+Disney Live Action Reimaginings,-,Mulan,,,,-,"Jul 24, 2020",Walt Disney Studios Motion Pictures
+J.K. Rowling's Wizarding World,1,Harry Potter and the Deathly Hallows: Part 2,381011219.0,4375.0,169189427.0,"4,375","Jul 15, 2011",Warner Bros.
+J.K. Rowling's Wizarding World,2,Harry Potter and the Sorcerer's Stone,317575550.0,3672.0,90294621.0,"3,672","Nov 16, 2001",Warner Bros.
+J.K. Rowling's Wizarding World,3,Harry Potter and the Half-Blood Prince,301959197.0,4455.0,77835727.0,"4,325","Jul 15, 2009",Warner Bros.
+J.K. Rowling's Wizarding World,4,Harry Potter and the Deathly Hallows: Part 1,295983305.0,4125.0,125017372.0,"4,125","Nov 19, 2010",Warner Bros.
+J.K. Rowling's Wizarding World,5,Harry Potter and the Order of the Phoenix,292004738.0,4285.0,77108414.0,"4,285","Jul 11, 2007",Warner Bros.
+J.K. Rowling's Wizarding World,6,Harry Potter and the Goblet of Fire,290013036.0,3858.0,102685961.0,"3,858","Nov 18, 2005",Warner Bros.
+J.K. Rowling's Wizarding World,7,Harry Potter and the Chamber of Secrets,261988482.0,3682.0,88357488.0,"3,682","Nov 15, 2002",Warner Bros.
+J.K. Rowling's Wizarding World,8,Harry Potter and the Prisoner of Azkaban,249541069.0,3855.0,93687367.0,"3,855","Jun 4, 2004",Warner Bros.
+J.K. Rowling's Wizarding World,9,Fantastic Beasts and Where to Find Them,234037575.0,4144.0,74403387.0,"4,144","Nov 18, 2016",Warner Bros.
+J.K. Rowling's Wizarding World,10,Fantastic Beasts: The Crimes of Grindelwald,159555901.0,4163.0,62163104.0,"4,163","Nov 16, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,11,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+J.K. Rowling's Wizarding World,19,Harry Potter and the Sorcerer's Stone2018 Re-release,295917.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,20,Harry Potter and the Chamber of Secrets2018 Re-release,245501.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,21,Harry Potter and the Prisoner of Azkaban2018 Re-release,218774.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,22,Harry Potter and the Goblet of Fire2018 Re-release,188716.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,23,Harry Potter and the Deathly Hallows: Part 22018 Re-release,181938.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,24,Harry Potter and the Deathly Hallows: Part 12018 Re-release,148263.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,25,Harry Potter and the Order of the Phoenix2018 Re-release,132522.0,,,-,"Sep 2, 2018",Warner Bros.
+J.K. Rowling's Wizarding World,26,Harry Potter and the Half-Blood Prince2018 Re-release,130081.0,,,-,"Sep 2, 2018",Warner Bros.
+Avengers,1,Avengers: Endgame,858373000.0,4662.0,357115007.0,"4,662","Apr 26, 2019",Walt Disney Studios Motion Pictures
+Avengers,2,Avengers: Infinity War,678815482.0,4474.0,257698183.0,"4,474","Apr 27, 2018",Walt Disney Studios Motion Pictures
+Avengers,3,The Avengers,623357910.0,4349.0,207438708.0,"4,349","May 4, 2012",Walt Disney Studios Motion Pictures
+Avengers,4,Avengers: Age of Ultron,459005868.0,4276.0,191271109.0,"4,276","May 1, 2015",Walt Disney Studios Motion Pictures
+Spider-Man,1,Spider-Man,403706375.0,3876.0,114844116.0,"3,615","May 3, 2002",Sony Pictures Releasing
+Spider-Man,2,Spider-Man: Far from Home,390532085.0,4634.0,92579212.0,"4,634","Jul 2, 2019",Sony Pictures Releasing
+Spider-Man,3,Spider-Man 2,373585825.0,4166.0,88156227.0,"4,152","Jun 30, 2004",Sony Pictures Releasing
+Spider-Man,4,Spider-Man 3,336530303.0,4324.0,151116516.0,"4,252","May 4, 2007",Sony Pictures Releasing
+Spider-Man,5,Spider-Man: Homecoming,334201140.0,4348.0,117027503.0,"4,348","Jul 7, 2017",Sony Pictures Releasing
+Spider-Man,6,The Amazing Spider-Man,262030663.0,4318.0,62004688.0,"4,318","Jul 3, 2012",Sony Pictures Releasing
+Spider-Man,7,The Amazing Spider-Man 2,202853933.0,4324.0,91608337.0,"4,324","May 2, 2014",Sony Pictures Releasing
+Spider-Man,8,Spider-Man: Into the Spider-Verse,190241310.0,3813.0,35363376.0,"3,813","Dec 14, 2018",Sony Pictures Releasing
+Spider-Man,9,Spider-Man/Men in Black IIDouble Bill,6632970.0,2078.0,2111862.0,"2,078","Sep 6, 2002",Sony Pictures Releasing
+Spider-Man,-,Untitled Spider-Man Sequel,,,,-,"Jul 16, 2021",Sony Pictures Releasing
+X-Men,1,Deadpool,363070709.0,3856.0,132434639.0,"3,558","Feb 12, 2016",Twentieth Century Fox
+X-Men,2,Deadpool 2,318491426.0,4349.0,125507153.0,"4,349","May 18, 2018",Twentieth Century Fox
+X-Men,3,X-Men: The Last Stand,234362462.0,3714.0,102750665.0,"3,690","May 26, 2006",Twentieth Century Fox
+X-Men,4,X-Men: Days of Future Past,233921534.0,4001.0,90823660.0,"3,996","May 23, 2014",Twentieth Century Fox
+X-Men,5,Logan,226277068.0,4071.0,88411916.0,"4,071","Mar 3, 2017",Twentieth Century Fox
+X-Men,6,X2: X-Men United,214949694.0,3749.0,85558731.0,"3,741","May 2, 2003",Twentieth Century Fox
+X-Men,7,X-Men Origins: Wolverine,179883157.0,4102.0,85058003.0,"4,099","May 1, 2009",Twentieth Century Fox
+X-Men,8,X-Men,157299718.0,3112.0,54471475.0,"3,025","Jul 14, 2000",Twentieth Century Fox
+X-Men,9,X-Men: Apocalypse,155442489.0,4153.0,65769562.0,"4,150","May 27, 2016",Twentieth Century Fox
+X-Men,10,X-Men: First Class,146408305.0,3692.0,55101604.0,"3,641","Jun 3, 2011",Twentieth Century Fox
+X-Men,11,The Wolverine,132556852.0,3924.0,53113752.0,"3,924","Jul 26, 2013",Twentieth Century Fox
+X-Men,12,X-Men: Dark Phoenix,65845974.0,3721.0,32828348.0,"3,721","Jun 7, 2019",Twentieth Century Fox
+X-Men,13,Once Upon a Deadpool2018 Re-release,6100309.0,1566.0,2683200.0,"1,566","Dec 12, 2018",Twentieth Century Fox
+Batman,1,The Dark Knight,533345358.0,4366.0,158411483.0,"4,366","Jul 18, 2008",Warner Bros.
+Batman,2,The Dark Knight Rises,448139099.0,4404.0,160887295.0,"4,404","Jul 20, 2012",Warner Bros.
+Batman,3,Batman v Superman: Dawn of Justice,330360194.0,4256.0,166007347.0,"4,242","Mar 25, 2016",Warner Bros.
+Batman,4,Batman,251188924.0,2201.0,40489746.0,"2,194","Jun 23, 1989",Warner Bros.
+Batman,5,Batman Begins,205343774.0,3858.0,48745440.0,"3,858","Jun 15, 2005",Warner Bros.
+Batman,6,Batman Forever,184031112.0,2893.0,52784433.0,"2,842","Jun 16, 1995",Warner Bros.
+Batman,7,The Lego Batman Movie,175750384.0,4088.0,53003468.0,"4,088","Feb 10, 2017",Warner Bros.
+Batman,8,Batman Returns,162831698.0,2644.0,45687711.0,"2,644","Jun 19, 1992",Warner Bros.
+Batman,9,Batman & Robin,107325195.0,2942.0,42872605.0,"2,934","Jun 20, 1997",Warner Bros.
+Batman,10,Batman: Mask of the Phantasm,5617391.0,1506.0,1189975.0,"1,506","Dec 25, 1993",Warner Bros.
+Batman,11,Batman: The Killing Joke,3775000.0,1325.0,,-,"Jul 25, 2016",Fathom Events
+Batman,12,The Dark Knight2012 Re-release,1513086.0,,,-,"Jul 19, 2012",Warner Bros.
+Batman,13,Batman Begins2012 Re-release,1508658.0,,,-,"Jul 19, 2012",Warner Bros.
+Batman,14,The Dark Knight2018 Re-release,375589.0,,,-,"Aug 24, 2018",Warner Bros.
+Batman,15,Batman2019 Re-release,159419.0,489.0,159419.0,489,"May 4, 2019",Fathom Events
+Batman,16,Batman Returns2019 Re-release,70642.0,507.0,,-,"May 6, 2019",Fathom Events
+Batman,17,Batman Forever2019 Re-release,38014.0,434.0,38014.0,434,"May 12, 2019",Fathom Events
+Batman,18,Batman & Robin2019 Re-release,28597.0,429.0,,-,"May 14, 2019",Fathom Events
+Batman,19,Batman: Mask of the Phantasm2018 Re-release,17813.0,761.0,,-,"Nov 12, 2018",Fathom Events
+Harry Potter,1,Harry Potter and the Deathly Hallows: Part 2,381011219.0,4375.0,169189427.0,"4,375","Jul 15, 2011",Warner Bros.
+Harry Potter,2,Harry Potter and the Sorcerer's Stone,317575550.0,3672.0,90294621.0,"3,672","Nov 16, 2001",Warner Bros.
+Harry Potter,3,Harry Potter and the Half-Blood Prince,301959197.0,4455.0,77835727.0,"4,325","Jul 15, 2009",Warner Bros.
+Harry Potter,4,Harry Potter and the Deathly Hallows: Part 1,295983305.0,4125.0,125017372.0,"4,125","Nov 19, 2010",Warner Bros.
+Harry Potter,5,Harry Potter and the Order of the Phoenix,292004738.0,4285.0,77108414.0,"4,285","Jul 11, 2007",Warner Bros.
+Harry Potter,6,Harry Potter and the Goblet of Fire,290013036.0,3858.0,102685961.0,"3,858","Nov 18, 2005",Warner Bros.
+Harry Potter,7,Harry Potter and the Chamber of Secrets,261988482.0,3682.0,88357488.0,"3,682","Nov 15, 2002",Warner Bros.
+Harry Potter,8,Harry Potter and the Prisoner of Azkaban,249541069.0,3855.0,93687367.0,"3,855","Jun 4, 2004",Warner Bros.
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,9,Harry Potter IMAX Marathon,1729226.0,330.0,1357376.0,330,"Oct 14, 2016",IMAX
+Harry Potter,17,Harry Potter and the Sorcerer's Stone2018 Re-release,295917.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,18,Harry Potter and the Chamber of Secrets2018 Re-release,245501.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,19,Harry Potter and the Prisoner of Azkaban2018 Re-release,218774.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,20,Harry Potter and the Goblet of Fire2018 Re-release,188716.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,21,Harry Potter and the Deathly Hallows: Part 22018 Re-release,181938.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,22,Harry Potter and the Deathly Hallows: Part 12018 Re-release,148263.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,23,Harry Potter and the Order of the Phoenix2018 Re-release,132522.0,,,-,"Sep 2, 2018",Warner Bros.
+Harry Potter,24,Harry Potter and the Half-Blood Prince2018 Re-release,130081.0,,,-,"Sep 2, 2018",Warner Bros.
+DC Extended Universe,1,Wonder Woman,412563408.0,4165.0,103251471.0,"4,165","Jun 2, 2017",Warner Bros.
+DC Extended Universe,2,Aquaman,335061807.0,4184.0,67873522.0,"4,125","Dec 21, 2018",Warner Bros.
+DC Extended Universe,3,Batman v Superman: Dawn of Justice,330360194.0,4256.0,166007347.0,"4,242","Mar 25, 2016",Warner Bros.
+DC Extended Universe,4,Suicide Squad,325100054.0,4255.0,133682248.0,"4,255","Aug 5, 2016",Warner Bros.
+DC Extended Universe,5,Man of Steel,291045518.0,4207.0,116619362.0,"4,207","Jun 14, 2013",Warner Bros.
+DC Extended Universe,6,Justice League,229024295.0,4051.0,93842239.0,"4,051","Nov 17, 2017",Warner Bros.
+DC Extended Universe,7,Shazam!,140371656.0,4306.0,53505326.0,"4,217","Apr 5, 2019",Warner Bros.
+DC Extended Universe,8,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,84158461.0,4236.0,33010017.0,"4,236","Feb 7, 2020",Warner Bros.
+DC Extended Universe,-,Wonder Woman 1984,,,,-,"Aug 14, 2020",Warner Bros.
+DC Extended Universe,-,Aquaman 2,,,,-,"Dec 16, 2022",Warner Bros.
+DC Extended Universe,-,The Suicide Squad,,,,-,"Aug 6, 2021",Warner Bros.
+DC Extended Universe,-,Black Adam,,,,-,"Dec 22, 2021",Warner Bros.
+DC Extended Universe,-,Untitled Shazam! Sequel,,,,-,"Nov 4, 2022",Warner Bros.
+James Bond,1,Skyfall,304360277.0,3526.0,88364714.0,"3,505","Nov 9, 2012",Sony Pictures Releasing
+James Bond,2,Spectre,200074609.0,3929.0,70403148.0,"3,929","Nov 6, 2015",Sony Pictures Releasing
+James Bond,3,Quantum of Solace,168368427.0,3501.0,67528882.0,"3,451","Nov 14, 2008",Sony Pictures Releasing
+James Bond,4,Casino Royale,167445960.0,3443.0,40833156.0,"3,434","Nov 17, 2006",Sony Pictures Releasing
+James Bond,5,Die Another Day,160942139.0,3377.0,47072040.0,"3,314","Nov 22, 2002",Metro-Goldwyn-Mayer (MGM)
+James Bond,6,The World Is Not Enough,126943684.0,3163.0,35519007.0,"3,163","Nov 19, 1999",Metro-Goldwyn-Mayer (MGM)
+James Bond,7,Tomorrow Never Dies,125304276.0,2807.0,25143007.0,"2,807","Dec 19, 1997",Metro-Goldwyn-Mayer (MGM)
+James Bond,8,GoldenEye,106429941.0,2667.0,26205007.0,"2,667","Nov 17, 1995",Metro-Goldwyn-Mayer (MGM)
+James Bond,9,Moonraker,70308099.0,788.0,7108344.0,788,"Jun 29, 1979",Metro-Goldwyn-Mayer (MGM)
+James Bond,10,Octopussy,67893619.0,1339.0,8902564.0,"1,311","Jun 10, 1983",Metro-Goldwyn-Mayer (MGM)
+James Bond,11,Thunderball,63595658.0,,,-,"Dec 21, 1965",United Artists
+James Bond,12,Never Say Never Again,55432841.0,1560.0,10958157.0,"1,550","Oct 7, 1983",Warner Bros.
+James Bond,13,For Your Eyes Only,54812802.0,952.0,6834967.0,952,"Jun 26, 1981",Metro-Goldwyn-Mayer (MGM)
+James Bond,14,The Living Daylights,51185897.0,1728.0,11051284.0,"1,728","Jul 31, 1987",United Artists
+James Bond,15,Goldfinger,51081062.0,,,-,"Dec 22, 1964",United Artists
+James Bond,16,A View to a Kill,50327960.0,1588.0,10687114.0,"1,583","May 24, 1985",Metro-Goldwyn-Mayer (MGM)
+James Bond,17,The Spy Who Loved Me,46838673.0,200.0,,200,"Jul 13, 1977",United Artists
+James Bond,18,Diamonds Are Forever,43819547.0,,,-,"Dec 17, 1971",United Artists
+James Bond,19,You Only Live Twice,43084787.0,,,-,"Jun 13, 1967",United Artists
+James Bond,20,Live and Let Die,35377836.0,,,-,"Jun 27, 1973",United Artists
+James Bond,21,Licence to Kill,34667015.0,1587.0,8774776.0,"1,575","Jul 14, 1989",United Artists
+James Bond,22,From Russia with Love,24796765.0,,,-,"Apr 8, 1964",United Artists
+James Bond,23,On Her Majesty's Secret Service,22774493.0,,,-,"Dec 18, 1969",United Artists
+James Bond,24,The Man with the Golden Gun,20972000.0,,,-,"Dec 18, 1974",United Artists
+James Bond,25,Dr. No,16067035.0,,,-,"May 8, 1963",United Artists
+James Bond,-,No Time to Die,,,,-,"Nov 25, 2020",Metro-Goldwyn-Mayer (MGM)
+Jurassic Park,1,Jurassic World,652270625.0,4291.0,208806270.0,"4,274","Jun 12, 2015",Universal Pictures
+Jurassic Park,2,Jurassic World: Fallen Kingdom,417719760.0,4485.0,148024610.0,"4,475","Jun 22, 2018",Universal Pictures
+Jurassic Park,3,Jurassic Park,357067947.0,2566.0,47026828.0,"2,404","Jun 11, 1993",Universal Pictures
+Jurassic Park,4,The Lost World: Jurassic Park,229086679.0,3565.0,72132785.0,"3,281","May 23, 1997",Universal Pictures
+Jurassic Park,5,Jurassic Park III,181171875.0,3462.0,50771645.0,"3,434","Jul 18, 2001",Universal Pictures
+Jurassic Park,6,Jurassic Park2013 Re-release,45385935.0,2778.0,18620145.0,"2,771","Apr 5, 2013",Universal Pictures
+Jurassic Park,7,Jurassic Park2018 Re-release,374238.0,532.0,213743.0,532,"Sep 16, 2018",Fathom Events
+Jurassic Park,-,Jurassic World: Dominion,,,,-,"Jun 11, 2021",Universal Pictures
+Middle Earth,1,The Lord of the Rings: The Return of the King,377027325.0,3703.0,72629713.0,"3,703","Dec 17, 2003",New Line Cinema
+Middle Earth,2,The Lord of the Rings: The Two Towers,339789881.0,3622.0,62007528.0,"3,622","Dec 18, 2002",New Line Cinema
+Middle Earth,3,The Lord of the Rings: The Fellowship of the Ring,313364114.0,3381.0,47211490.0,"3,359","Dec 19, 2001",New Line Cinema
+Middle Earth,4,The Hobbit: An Unexpected Journey,303003568.0,4100.0,84617303.0,"4,045","Dec 14, 2012",Warner Bros.
+Middle Earth,5,The Hobbit: The Desolation of Smaug,258366855.0,3928.0,73645197.0,"3,903","Dec 13, 2013",Warner Bros.
+Middle Earth,6,The Hobbit: The Battle of the Five Armies,255119788.0,3875.0,54724334.0,"3,875","Dec 17, 2014",Warner Bros.
+Middle Earth,7,The Lord of the Rings: The Two Towers2003 Re-release,1996877.0,126.0,727645.0,126,"Dec 12, 2003",New Line Cinema
+Middle Earth,8,The Lord of the Rings: The Fellowship of the Ring2003 Extended Edition,1412056.0,126.0,473463.0,126,"Dec 5, 2003",New Line Cinema
+Middle Earth,9,The Lord of the Rings: The Return of the King2011 Re-release,818580.0,521.0,,-,"Jun 28, 2011",Warner Bros.
+Middle Earth,10,The Lord of the Rings: The Fellowship of the Ring2011 Re-release,768580.0,522.0,,-,"Jun 14, 2011",Warner Bros.
+Middle Earth,11,The Lord of the Rings: The Two Towers2011 Re-release,764607.0,522.0,,-,"Jun 21, 2011",Warner Bros.
+The Fast and the Furious,1,Furious 7,353007020.0,4022.0,147187040.0,"4,004","Apr 3, 2015",Universal Pictures
+The Fast and the Furious,2,Fast & Furious 6,238679850.0,3771.0,97375245.0,"3,658","May 24, 2013",Universal Pictures
+The Fast and the Furious,3,The Fate of the Furious,226008385.0,4329.0,98786705.0,"4,310","Apr 14, 2017",Universal Pictures
+The Fast and the Furious,4,Fast Five,209837675.0,3793.0,86198765.0,"3,644","Apr 29, 2011",Universal Pictures
+The Fast and the Furious,5,Fast & Furious Presents: Hobbs & Shaw,173956935.0,4344.0,60038950.0,"4,253","Aug 2, 2019",Universal Pictures
+The Fast and the Furious,6,Fast & Furious,155064265.0,3674.0,70950500.0,"3,461","Apr 3, 2009",Universal Pictures
+The Fast and the Furious,7,The Fast and the Furious,144533925.0,2899.0,40089015.0,"2,628","Jun 22, 2001",Universal Pictures
+The Fast and the Furious,8,2 Fast 2 Furious,127154901.0,3418.0,50472480.0,"3,408","Jun 6, 2003",Universal Pictures
+The Fast and the Furious,9,The Fast and the Furious: Tokyo Drift,62514415.0,3030.0,23973840.0,"3,027","Jun 16, 2006",Universal Pictures
+The Fast and the Furious,-,F9,,,,-,"Apr 2, 2021",Universal Pictures
+The Fast and the Furious,-,Fast & Furious 10,,,,-,"Apr 2, 2021",Universal Pictures
+Transformers,1,Transformers: Revenge of the Fallen,402111870.0,4293.0,108966307.0,"4,234","Jun 24, 2009",DreamWorks
+Transformers,2,Transformers: Dark of the Moon,352390543.0,4088.0,97852865.0,"4,088","Jun 29, 2011",DreamWorks
+Transformers,3,Transformers,319246193.0,4050.0,70502384.0,"4,011","Jul 3, 2007",DreamWorks
+Transformers,4,Transformers: Age of Extinction,245439076.0,4233.0,100038390.0,"4,233","Jun 27, 2014",Paramount Pictures
+Transformers,5,Transformers: The Last Knight,130168683.0,4132.0,44680073.0,"4,069","Jun 21, 2017",Paramount Pictures
+Transformers,6,Bumblebee,127195589.0,3597.0,21654047.0,"3,550","Dec 21, 2018",Paramount Pictures
+Transformers,7,The Transformers: The Movie,5849647.0,990.0,1779559.0,990,"Aug 8, 1986",De Laurentiis Entertainment Group (DEG)
+Pirates of the Caribbean,1,Pirates of the Caribbean: Dead Man's Chest,423315812.0,4133.0,135634554.0,"4,133","Jul 7, 2006",Walt Disney Studios Motion Pictures
+Pirates of the Caribbean,2,Pirates of the Caribbean: At World's End,309420425.0,4362.0,114732820.0,"4,362","May 25, 2007",Walt Disney Studios Motion Pictures
+Pirates of the Caribbean,3,Pirates of the Caribbean: The Curse of the Black Pearl,305413918.0,3416.0,46630690.0,"3,269","Jul 9, 2003",Walt Disney Studios Motion Pictures
+Pirates of the Caribbean,4,Pirates of the Caribbean: On Stranger Tides,241071802.0,4164.0,90151958.0,"4,155","May 20, 2011",Walt Disney Studios Motion Pictures
+Pirates of the Caribbean,5,Pirates of the Caribbean: Dead Men Tell No Tales,172558876.0,4276.0,62983253.0,"4,276","May 26, 2017",Walt Disney Studios Motion Pictures
+The Hunger Games,1,The Hunger Games: Catching Fire,424668047.0,4163.0,158074286.0,"4,163","Nov 22, 2013",Lionsgate
+The Hunger Games,2,The Hunger Games,408010692.0,4137.0,152535747.0,"4,137","Mar 23, 2012",Lionsgate
+The Hunger Games,3,The Hunger Games: Mockingjay - Part 1,337135885.0,4151.0,121897634.0,"4,151","Nov 21, 2014",Lionsgate
+The Hunger Games,4,The Hunger Games: Mockingjay - Part 2,281723902.0,4175.0,102665981.0,"4,175","Nov 20, 2015",Lionsgate
+Shrek,1,Shrek 2,441226247.0,4223.0,108037878.0,"4,163","May 19, 2004",DreamWorks Distribution
+Shrek,2,Shrek the Third,322719944.0,4172.0,121629270.0,"4,122","May 18, 2007",DreamWorks
+Shrek,3,Shrek,267665011.0,3715.0,42347760.0,"3,587","May 16, 2001",DreamWorks Distribution
+Shrek,4,Shrek Forever After,238736787.0,4386.0,70838207.0,"4,359","May 21, 2010",DreamWorks
+Shrek,5,Puss in Boots,149260504.0,3963.0,34077439.0,"3,952","Oct 28, 2011",DreamWorks
+Star Trek,1,Star Trek,257730019.0,4053.0,75204289.0,"3,849","May 8, 2009",Paramount Pictures
+Star Trek,2,Star Trek Into Darkness,228778661.0,3907.0,70165559.0,"3,868","May 16, 2013",Paramount Pictures
+Star Trek,3,Star Trek Beyond,158848340.0,3928.0,59253211.0,"3,928","Jul 22, 2016",Paramount Pictures
+Star Trek,4,Star Trek IV: The Voyage Home,109713132.0,1956.0,16881888.0,"1,349","Nov 26, 1986",Paramount Pictures
+Star Trek,5,Star Trek: First Contact,92027888.0,2812.0,30716131.0,"2,812","Nov 22, 1996",Paramount Pictures
+Star Trek,6,Star Trek,82258456.0,1002.0,11926421.0,857,"Dec 7, 1979",Paramount Pictures
+Star Trek,7,Star Trek II: The Wrath of Khan,78912963.0,1621.0,14347221.0,"1,621","Jun 4, 1982",Paramount Pictures
+Star Trek,8,Star Trek III: The Search for Spock,76471046.0,1966.0,16673295.0,"1,966","Jun 1, 1984",Paramount Pictures
+Star Trek,9,Star Trek: Generations,75671125.0,2681.0,23116394.0,"2,659","Nov 18, 1994",Paramount Pictures
+Star Trek,10,Star Trek VI: The Undiscovered Country,74888996.0,2147.0,18162837.0,"1,804","Dec 6, 1991",Paramount Pictures
+Star Trek,11,Star Trek: Insurrection,70187658.0,2677.0,22052836.0,"2,620","Dec 11, 1998",Paramount Pictures
+Star Trek,12,Star Trek V: The Final Frontier,52210049.0,2202.0,17375648.0,"2,202","Jun 9, 1989",Paramount Pictures
+Star Trek,13,Star Trek: Nemesis,43254409.0,2711.0,18513305.0,"2,711","Dec 13, 2002",Paramount Pictures
+Star Trek,14,Star Trek2019 Re-release,346243.0,627.0,220007.0,627,"Sep 15, 2019",Fathom Events
+Twilight,1,The Twilight Saga: Eclipse,300531751.0,4468.0,64832191.0,"4,468","Jun 30, 2010",Summit Entertainment
+Twilight,2,The Twilight Saga: New Moon,296623634.0,4124.0,142839137.0,"4,024","Nov 20, 2009",Summit Entertainment
+Twilight,3,The Twilight Saga: Breaking Dawn - Part 2,292324737.0,4070.0,141067634.0,"4,070","Nov 16, 2012",Lionsgate
+Twilight,4,The Twilight Saga: Breaking Dawn - Part 1,281287133.0,4066.0,138122261.0,"4,061","Nov 18, 2011",Summit Entertainment
+Twilight,5,Twilight,192769854.0,3649.0,69637740.0,"3,419","Nov 21, 2008",Summit Entertainment
+Twilight,6,Twilight/The Twilight Saga: New Moon,2385237.0,2037.0,,-,"Jun 29, 2010",Summit Entertainment
+Twilight,6,Twilight/The Twilight Saga: New Moon,2385237.0,2037.0,,-,"Jun 29, 2010",Summit Entertainment
