@@ -1,7 +1,7 @@
 from extraction import import_data
 from transformation import apply_cleaning, transform_data
 from load import load_data
-import os
+#import os
 
 def main(
         RAW_DATA_FOLDER, CLEAN_DATA_FOLDER, TRANSFORMED_DATA_FOLDER,
@@ -21,9 +21,9 @@ def main(
 if __name__ == "__main__":
     # Defining constants
     
-    RAW_DATA_FOLDER = os.getenv("RAW_DATA_FOLDER")
-    CLEANED_DATA_FOLDEER = os.getenv("CLEANED_DATA_FOLDEER")
-    TRANSFORMED_DATA_FOLDER = os.getenv("TRANSFORMED_DATA_FOLDER")
+    RAW_DATA_FOLDER = "/Workspace/Users/peculiarstephen@gmail.com/Full-Stack-IMBD-Data-Analysis/src/RAW_DATA_FOLDER"
+    CLEANED_DATA_FOLDEER = "/Workspace/Users/peculiarstephen@gmail.com/Full-Stack-IMBD-Data-Analysis/src/CLEAN_DATA_FOLDER"
+    TRANSFORMED_DATA_FOLDER = "/Workspace/Users/peculiarstephen@gmail.com/Full-Stack-IMBD-Data-Analysis/src/TRANSFORMED_DATA_FOLDER"
     
     TABLES = {
     "https://raw.githubusercontent.com/mansik95/IMDB-Analysis/master/Data/MovieLens_movies.csv": "movies_Id",
