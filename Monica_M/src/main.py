@@ -1,7 +1,8 @@
 from extraction import import_data
 from transformation import apply_cleaning, transform_data
 from load import load_data
-import os
+
+
 
 def main(
         RAW_DATA_FOLDER, CLEAN_DATA_FOLDER, TRANSFORMED_DATA_FOLDER,
@@ -21,9 +22,9 @@ def main(
 if __name__ == "__main__":
     # Defining constants
     
-    RAW_DATA_FOLDER = os.getenv("RAW_DATA_FOLDER")
-    CLEANED_DATA_FOLDEER = os.getenv("CLEANED_DATA_FOLDEER")
-    TRANSFORMED_DATA_FOLDER = os.getenv("TRANSFORMED_DATA_FOLDER")
+    RAW_DATA_FOLDER = "/Workspace/Users/monicamensah@me.com/Full-Stack-IMBD-Data-Analysis/Monica_M/src/RAW_DATA_FOLDER"
+    CLEAN_DATA_FOLDER = "/Workspace/Users/monicamensah@me.com/Full-Stack-IMBD-Data-Analysis/Monica_M/src/CLEAN_DATA_FOLDER"
+    TRANSFORMED_DATA_FOLDER = "/Workspace/Users/monicamensah@me.com/Full-Stack-IMBD-Data-Analysis/Monica_M/src/TRANSFORMED_DATA_FOLDER"
     
     TABLES = {
     "https://raw.githubusercontent.com/mansik95/IMDB-Analysis/master/Data/MovieLens_movies.csv": "movies_Id",
@@ -43,5 +44,5 @@ if __name__ == "__main__":
     'top_20_for_each_Franchise': ['Lifetime_Gross','Opening_Gross','Max_Theaters']
 }
 
-    main(RAW_DATA_FOLDER, CLEANED_DATA_FOLDEER, TRANSFORMED_DATA_FOLDER, TABLES, COLUMNS_TO_REMOVE_THE_DOLLAR_SIGN)
+    main(RAW_DATA_FOLDER, CLEAN_DATA_FOLDER, TRANSFORMED_DATA_FOLDER, TABLES, COLUMNS_TO_REMOVE_THE_DOLLAR_SIGN)
    
